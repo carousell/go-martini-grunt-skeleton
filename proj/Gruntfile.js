@@ -26,7 +26,7 @@ module.exports = function(grunt) {
       }
     },
 
-    clean: ['dist'],
+    clean: ['dist', '.tmp'],
 
     less: {
       development: {

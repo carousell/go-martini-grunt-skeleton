@@ -32,7 +32,7 @@ will become
 
     # dist/templates/index.tmpl
 
-    <link rel="stylesheet" href="/all.min.a12j2.css"/>
+    <link rel="stylesheet" href="/css/all.min.a12j2.css"/>
 
 
 Grunt tasks such as `cssmin` and `uglify` are used to compress and concatenate
